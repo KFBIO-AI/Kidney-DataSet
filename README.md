@@ -12,4 +12,4 @@ Table1.Correspondence table of category index and kidney structure
 | :--------------: | :-------------: | :--------: | :--------------: | :------------: | :------: | :-------: | :---------: |
 | Kidney structure | Capillary lumen | Glomerular | Proximal tubular | Distal tubular | Arteries | Mesangial | Endothelium |
 
-![](https://github.com/KFBIO-AI/Kidney-DataSet/Kidney_annotation.png)
+![](Kidney_annotation.png)
